@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<style>
+       
+     
+       body, html {
+           margin: 0;
+           padding: 0;
+           font-family: monospace, sans-serif;
+       }
+
+
+       
+       body {
+           background: url('cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV80NV9taW5pbWFsX2Fic3RyYWN0X2JhY2tncm91bmRfd2l0aF9jeWJlcl9zZWN1cl9hODllOWZkZS00ZDkyLTQ1MjEtYmY0NC03NzhmMzQ4MTJkYjlfMS5qcGc.webp') no-repeat center center fixed;
+           background-size: cover;
+           color: white;
+       }
+
+
+     
+       header {
+           background: rgba(0, 0, 0, 0.8);
+           padding: 20px;
+           text-align: center;
+           border-bottom: 2px solid #ff0000;
+       }
+
+
+       header h1 {
+           margin: 0;
+           font-size: 2.5em;
+           color: #ff0000;
+       }
+
+
+       
+       nav {
+           margin: 20px 0;
+           text-align: center;
+       }
+
+
+       nav a {
+           color: #ff0000;
+           text-decoration: none;
+           margin: 0 15px;
+           font-size: 1.2em;
+           transition: color 0.3s;
+       }
+
+
+       nav a:hover {
+           color: white;
+       }
+
+
+       .content {
+           padding: 20px;
+           background: rgba(0, 0, 0, 0.7);
+           max-width: 800px;
+           margin: 20px ;
+           border-radius: 10px;
+           box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+       }
+
+
+       .content h2 {
+           color: #ff0000;
+       }
+
+
+       .content p {
+           line-height: 1.6;
+          
+       }
+
+
+    
+       footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+           text-align: center;
+           padding: 10px;
+           background: rgba(0, 0, 0, 0.8);
+           border-top: 2px solid #ff0000;
+           bottom:0 ;
+           width: 100%
+
+       }
+
+
+       footer p {
+           margin: 0;
+           color: white;
+       }
+
+
+     
+ </style>
